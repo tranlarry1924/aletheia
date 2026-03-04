@@ -14,5 +14,5 @@ Aletheia is a **Universal Identity API** designed to solve the "Multiple Truths"
 
 ## 🗺️ 3-Year Roadmap
 * **Phase 1 (Current)**: Real-time PII resolution and Knowledge Graph projection.
-* **Phase 2 (Scalability)**: Multi-tenant support for global regions (NA, EMEA, APLA) with localized data residency rules.
+* **Phase 2 (Scalability)**: Multi-tenant support for global regions with localized data residency rules.
 * **Phase 3 (Ecosystem)**: Integration with edge-computing devices (Retail POS, Mobile Apps) for sub-second identity verification.
