@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "aletheia"
+version = "0.1.0"
+description = "Agentic Consensus Engine — solves Agent Sprawl via priority-aware intent arbitration"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.49.0",
+    "langgraph>=0.3.0",
+    "mcp>=1.6.0",
+    "pydantic>=2.0",
+    "qdrant-client>=1.13.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.25",
+]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
