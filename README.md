@@ -45,10 +45,12 @@ Aletheia is a hybrid governance engine designed to resolve enterprise data fragm
 ## 🏛️ Strategy & Governance
 For a deep dive into the business impact, ROI modeling, and 3-year roadmap for this architecture, please see the [Product Strategy Memo](docs/STRATEGY.md).
 
-![Aletheia Hybrid Governance](assets/screenshots/Aletheia_1.jpg)
+## System Interface & Logic
+
+![Aletheia Hybrid Governance](assets/Aletheia_1.png)
 *Managing automated production feeds with built-in CCPA compliance flagging.*
 
-![Aletheia Resolution Feed](assets/screenshots/Aletheia.jpg)
+![Aletheia Resolution Feed](assets/Aletheia.png)
 *Resolving fragmented entity actions into a Unified Schema using LLM reasoning.*
 
 ---
