@@ -42,5 +42,8 @@ Aletheia is a hybrid governance engine designed to resolve enterprise data fragm
     python3 src/mock_agent_test.py
     ```
 
+## 🏛️ Strategy & Governance (Principal PM Layer)
+For a deep dive into the business impact, ROI modeling, and 3-year roadmap for this architecture, please see the [Product Strategy Memo](docs/STRATEGY.md).
+
 ---
 *Developed as a deep-dive exploration into enterprise data reconciliation and Master Data Management (MDM) challenges.*
