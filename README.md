@@ -47,10 +47,10 @@ For a deep dive into the business impact, ROI modeling, and 3-year roadmap for t
 
 ## System Interface & Logic
 
-![Aletheia Hybrid Governance](assets/Aletheia_1.png)
+![Aletheia Hybrid Governance](assets/screenshots/Aletheia_1.png)
 *Managing automated production feeds with built-in CCPA compliance flagging.*
 
-![Aletheia Resolution Feed](assets/Aletheia.png)
+![Aletheia Resolution Feed](assets/screenshots/Aletheia.png)
 *Resolving fragmented entity actions into a Unified Schema using LLM reasoning.*
 
 ---
